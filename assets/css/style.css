@@ -1075,7 +1075,13 @@ blockquote {
   border: none;
   border-left: 4px solid #b8a07e;
 }
-
+.card-header{
+  background-color: #b8a07e ; 
+  color: #fff;
+}
+.dropdown-item:active{
+  background-color: #b8a07e ; 
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
